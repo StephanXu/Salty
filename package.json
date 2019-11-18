@@ -1,0 +1,18 @@
+{
+  "name": "salty-surface",
+  "version": "1.0.0",
+  "description": "3D surface rebuild of salt pond",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "StephanXu",
+  "license": "MIT",
+  "dependencies": {
+    "echarts": "^4.5.0",
+    "echarts-gl": "^1.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.6.0"
+  }
+}
