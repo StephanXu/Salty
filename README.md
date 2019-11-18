@@ -1,6 +1,4 @@
-<center><img src="./asset/salty_logo.png" width="350"/></center>
-<br></br>
-
+<p align="center"><img src="./asset/salty_logo.png" width="350px"/></p>
 <p align="center">快速，安全地在网页中可视化渲染盐池模型</p>
 <br></br>
 
